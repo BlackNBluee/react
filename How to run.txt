@@ -1,0 +1,6 @@
+To run the react app :
+1 -> open respective folder in vscode
+2 -> run command "npm install"
+3 -> install required dependencies / packages like react-dom, react-toastify, tailwindCss, react-router, etc. 
+	whatever needed.
+4 -> then run command "npm start" to run the app.
